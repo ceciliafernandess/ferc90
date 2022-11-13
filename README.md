@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Cecília Fernandes
-- 👀 I’m currently working on developing my technical skills.
-- 🌱 I’m currently learning Python and other programming languages
-- 💞️ I’m looking to collaborate on opportunity to learn and develop skills
+:blush: Olá a todos, me chamo Cecília Fernandes, graduanda em Análise de Dados (Claretiano - Rede de Educação) e apaixonada por Tecnologia. 
+Entrei nesse mundo para me desenvolver em Programação Web. Não tenho ainda grandes conhecimentos, dia a dia busco evoluir e aprender mais para um dia ser uma 
+:dizzy: Desenvolvedora Web 
 
-<!---
-ferc90/ferc90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
